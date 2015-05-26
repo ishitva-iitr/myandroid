@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mata Ke Bhajan</string>
+    <string name="welcome">WELCOME TO THE BHAJAN COLLECTION OF AJIT MINOCHA</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string><string name="action_settings">setting</string>
+    
+
+</resources>

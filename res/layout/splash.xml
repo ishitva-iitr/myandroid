@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/matarani"
+    android:clickable="true"
+    android:gravity="bottom|center|fill_vertical"
+    android:orientation="horizontal"
+    >
+
+    <TextView
+        android:id="@+id/textview"
+        android:text="@string/welcome"
+        android:layout_gravity="center|bottom"
+        android:paddingBottom="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:background="#AA000000"
+        android:alpha="0.7"
+        />
+</FrameLayout>
